@@ -1,0 +1,13 @@
+apache-airflow-providers-postgres
+apache-airflow-providers-redis
+apache-airflow-providers-fab
+boto3
+connexion[flask]==2.14.2
+flask-appbuilder>=4.5,<5
+Flask-Session>=0.5,<1
+requests
+redis
+pandas
+psycopg2-binary
+pytest
+pytest-mock
